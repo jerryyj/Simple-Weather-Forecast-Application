@@ -141,9 +141,6 @@ void displayMainMenu()
 {
 	// DIsplay header
 	cout << endl;
-	cout << "Student ID   : 7063155" << endl;
-	cout << "Student Name : Yeo Jun, Jeremiah" << endl;
-	cout << "---------------------------------" << endl;
 	cout << "Welcome to Weather Information Processing System!" << endl;
 	
 	// Display menu options
